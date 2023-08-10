@@ -9,6 +9,11 @@ header{
   display: none;
 }
 
+.imagem-cabecalho {
+  size: 30% 30%;
+  text-align: center;
+}
+
 .container{
   display: flex;
   justify-content: center;
